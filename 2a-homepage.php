@@ -64,12 +64,14 @@
                                     <div id="audience-search" class="colors red">
                                         <h3>Find your audience</h3>
                                         <label>Earnings</label>
-                                        <div class="slider" data-slider data-initial-start="50" data-end="200">
+                                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
                                             <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
                                             <span class="slider-fill" data-slider-fill></span>
+                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                            <input type="hidden">
                                             <input type="hidden">
                                         </div>
-
+                                        <br/>
                                     </div>
                                     <div id="yellow" class="colors yellow"> Audience data is currently only available for London</div>
                                 </div>
