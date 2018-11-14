@@ -53,9 +53,9 @@
             <div class="cell">
                 <label>Gender</label>
                 <div class="expanded button-group">
-                    <a class="small button hollow">Male</a>
-                    <a class="small button hollow">Female</a>
-                    <a class="small button">Not important</a>
+                    <a class="tiny button hollow">Male</a>
+                    <a class="tiny button hollow">Female</a>
+                    <a class="tiny button">Not important</a>
                 </div>
             </div>
             <div class="cell">Age</div>
