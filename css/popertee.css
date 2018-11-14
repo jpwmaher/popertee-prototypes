@@ -309,6 +309,9 @@ label {
     display: none;
 }
 
+label {
+    color: #444;
+    font-size: 16px;
 }
 
 /* Small only */
