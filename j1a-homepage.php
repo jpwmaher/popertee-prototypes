@@ -24,7 +24,7 @@
                 <div class="grid-x grid-padding-x">
                     <div class="cell">
                         <h1>We know people. We know places.</h1>
-                        <h4>[INSERT KEY COPY HIGHLIGHTING THE DIFFERENCE BETWEEN POPERTEE &amp; MARKETPLACE COMPETITORS HERE]
+                        <h4>[insert key copy highlighting the difference between popertee &amp; marketplace competitors here]
                         </h4>
                     </div>
                 </div>
