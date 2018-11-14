@@ -65,9 +65,17 @@
                                         <h4>Find your audience</h4>
                                         <label>Gender</label>
                                         <div class="expanded button-group">
-                                            <a class="button ">Male</a>
-                                            <a class="button">Female</a>
-                                            <a class="button secondary">Not important</a>
+                                            <a class="button hollow">Male</a>
+                                            <a class="button hollow">Female</a>
+                                            <a class="button">Not important</a>
+                                        </div>
+                                        <label>Age</label>
+                                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                            <span class="slider-fill" data-slider-fill></span>
+                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                            <input type="hidden">
+                                            <input type="hidden">
                                         </div>
                                         <label>Earnings</label>
                                         <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
@@ -79,7 +87,10 @@
                                         </div>
                                         <br/>
                                     </div>
-                                    <div id="yellow" class="colors yellow"> Audience data is currently only available for London</div>
+                                    <div id="yellow" class="colors yellow">
+                                        <a class="button primary">Search for pop-ups</a>
+                                        <p>Audience data is currently only available for London</p>
+                                    </div>
                                 </div>
                             </div>
                             <div class="tabs-panel" id="panel2">
