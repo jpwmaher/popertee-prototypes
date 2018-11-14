@@ -63,7 +63,7 @@
                     <div class="tiny button-group">
                         <a class="tiny button hollow">Male</a>
                         <a class="tiny button hollow">Female</a>
-                        <a class="tiny button">Not important</a>
+                        <a class="tiny button">Either</a>
                     </div>
                 </div>
                 <div class="cell"><label>Age</label>

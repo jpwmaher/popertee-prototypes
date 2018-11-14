@@ -68,7 +68,7 @@
                                         <div class="expanded button-group">
                                             <a class="button hollow">Male</a>
                                             <a class="button hollow">Female</a>
-                                            <a class="button">Not important</a>
+                                            <a class="button">Either</a>
                                         </div>
                                         <label>Age</label>
                                         <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
