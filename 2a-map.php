@@ -50,7 +50,14 @@
 
         <!-- Audience filters -->
         <div id="audience-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-8">
-            <div class="cell">Gender</div>
+            <div class="cell">
+                <label>Gender</label>
+                <div class="expanded button-group">
+                    <a class="button hollow">Male</a>
+                    <a class="button hollow">Female</a>
+                    <a class="button">Not important</a>
+                </div>
+            </div>
             <div class="cell">Age</div>
             <div class="cell">Earnings</div>
             <div class="cell">Features</div>
