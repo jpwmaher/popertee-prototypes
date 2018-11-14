@@ -321,8 +321,9 @@ label {
 }
 
 #audience-filters {
-    background: rgba(255, 51, 153, 0.4) !important;
+    background: white !important;
     padding: 10px;
+    color: #444;
 }
 
 /* Small only */
