@@ -273,30 +273,31 @@ label {
 }
 
 .tabs-content {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     border: 0ps !important;
 }
 
 .tabs-title {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0);
+    font-size: 24px;
 }
 
-/* Small only */
+.tabs-title > a:focus,
+.tabs-title > a[aria-selected='true'] {
+    background: rgba(255, 255, 255, 0.4);
+    color: #005EB8;
 
-@media screen and (max-width: 39.9375em) {}
+    /* Small only */
+    @media screen and (max-width: 39.9375em) {}
 
-/* Medium and up */
+    /* Medium and up */
+    @media screen and (min-width: 40em) {}
 
-@media screen and (min-width: 40em) {}
+    /* Medium only */
+    @media screen and (min-width: 40em) and (max-width: 63.9375em) {}
 
-/* Medium only */
+    /* Large and up */
+    @media screen and (min-width: 64em) {}
 
-@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
-
-/* Large and up */
-
-@media screen and (min-width: 64em) {}
-
-/* Large only */
-
-@media screen and (min-width: 64em) and (max-width: 74.9375em) {}
+    /* Large only */
+    @media screen and (min-width: 64em) and (max-width: 74.9375em) {}
