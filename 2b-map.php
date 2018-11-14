@@ -92,10 +92,14 @@
                 </div>
             </div>
             <div class="large-auto cell">
-                <h3>Map</h3>
-            </div>
-            <div class="large-3 cell">
-                <h3>Cards</h3>
+                <div class="grid-x grid-padding-x">
+                    <div class="large-8 medium-12 cell">
+                        <h3>Map</h3>
+                    </div>
+                    <div class="large-4 medium-12 cell">
+                        <h3>Cards</h3>
+                    </div>
+                </div>
             </div>
         </div>
 
