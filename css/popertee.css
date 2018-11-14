@@ -267,6 +267,11 @@ label {
     text-align: center;
 }
 
+.tabs {
+    background: transparent !important;
+    border: 0px !important;
+}
+
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {}

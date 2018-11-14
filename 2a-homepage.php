@@ -52,7 +52,7 @@
                 </div>
             </div>
 
-            <!-- choice panel -->
+            <!-- choice panel 
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
@@ -81,7 +81,7 @@
                 <hr>
             </div>
 
-            <!-- J3 panel -->
+
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-2 cell"></div>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="large-2 cell"></div>
                 </div>
-            </div>
+            </div> -->
 
 
         </div>
