@@ -63,6 +63,12 @@
                                 <div class="output">
                                     <div id="audience-search" class="colors red">
                                         <h4>Find your audience</h4>
+                                        <label>Gender</label>
+                                        <div class="expanded button-group">
+                                            <a class="button">Male</a>
+                                            <a class="button">Female</a>
+                                            <a class="button">Not important</a>
+                                        </div>
                                         <label>Earnings</label>
                                         <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
                                             <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
