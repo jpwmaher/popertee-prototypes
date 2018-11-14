@@ -223,6 +223,13 @@ label {
     padding: 20px;
 }
 
+.masthead-link {
+    float: right;
+    padding: 5px 0px;
+    font-weight: bold;
+    color: white !important;
+}
+
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {}
