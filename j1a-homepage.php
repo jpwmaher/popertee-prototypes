@@ -66,26 +66,32 @@
             <!-- J3 panel -->
             <div id="j3" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
-                    <div id="j3-hero" class="large-6 cell">
-                        <h2>Journey 3</h2>
-                        <p>BASIC SEARCH: OUTSIDE OF LONDON OR NO DATA JOURNEY.
-                        </p>
-                    </div>
-                    <div id="j3-hero-form" class="large-6 cell">
-                        <form>
-                            <div class="grid-x grid-padding-x">
-                                <div class="large-8 cell">
-                                    <input type="text" placeholder="Where do you want to pop-up"><br/></div>
-                                <div class="large-4 cell"></div>
+                    <div class="large-2 cell"></div>
+                    <div class="large-8 cell">
+                        <div class="grid-x grid-padding-x grid-margin-x">
+                            <div id="j3-hero" class="large-6 cell">
+                                <h2>Journey 3</h2>
+                                <p>BASIC SEARCH: OUTSIDE OF LONDON OR NO DATA JOURNEY.
+                                </p>
                             </div>
-                            <div class="grid-x grid-padding-x">
-                                <div class="large-8 cell">
-                                    <input type="text" placeholder="When do you want to pop-up"><br/></div>
-                                <div class="large-4 cell"></div>
+                            <div id="j3-hero-form" class="large-6 cell">
+                                <form>
+                                    <div class="grid-x grid-padding-x">
+                                        <div class="large-8 cell">
+                                            <input type="text" placeholder="Where do you want to pop-up"><br/></div>
+                                        <div class="large-4 cell"></div>
+                                    </div>
+                                    <div class="grid-x grid-padding-x">
+                                        <div class="large-8 cell">
+                                            <input type="text" placeholder="When do you want to pop-up"><br/></div>
+                                        <div class="large-4 cell"></div>
+                                    </div>
+                                </form>
+                                <a href="#" class="button large secondary">Journey 3</a>
                             </div>
-                        </form>
-                        <a href="#" class="button large secondary">Journey 3</a>
+                        </div>
                     </div>
+                    <div class="large-2 cell"></div>
                 </div>
             </div>
 
