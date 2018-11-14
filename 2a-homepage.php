@@ -30,20 +30,27 @@
                 </div>
             </div>
 
-            <div id="main-search-tabs" class="cell">
-                <ul class="tabs" data-tabs id="example-tabs">
-                    <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Pop-ups &amp; audience</a></li>
-                    <li class="tabs-title"><a data-tabs-target="panel2" href="#panel2">Location data</a></li>
-                </ul>
-            </div>
-
-            <div class="cell">
-                <div class="tabs-content" data-tabs-content="example-tabs">
-                    <div class="tabs-panel is-active" id="panel1">
-                        <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+            <div id="tabs" class="cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-4 cell"></div>
+                    <div id="main-search-tabs" class="large-4 cell">
+                        <ul class="tabs" data-tabs id="example-tabs">
+                            <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Pop-ups &amp; audience</a></li>
+                            <li class="tabs-title"><a data-tabs-target="panel2" href="#panel2">Location data</a></li>
+                        </ul>
                     </div>
-                    <div class="tabs-panel" id="panel2">
-                        <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+                    <div class="large-4 cell"></div>
+                </div>
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="cell">
+                        <div class="tabs-content" data-tabs-content="example-tabs">
+                            <div class="tabs-panel is-active" id="panel1">
+                                <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+                            </div>
+                            <div class="tabs-panel" id="panel2">
+                                <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
