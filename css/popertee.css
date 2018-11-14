@@ -90,6 +90,11 @@ strong {
     background: #32BFFC !important;
 }
 
+.secondary {
+    background: #f39! important;
+    color: white !important;
+}
+
 #masthead {
     padding: 10px 0px;
 }
