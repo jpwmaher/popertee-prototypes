@@ -56,8 +56,8 @@
 }
 
 body {
-    background: #007BB1;
-    color: white;
+    background: #fff;
+    color: ##4a4a4a;
     font-family: Avenir, 'avenirbook', Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
@@ -216,11 +216,6 @@ label {
 .square-negative {
     padding: 0px 5px;
     background: PapayaWhip;
-}
-
-.nav-panel {
-    border: 1px solid #fff;
-    margin-bottom: 20px;
 }
 
 
