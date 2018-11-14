@@ -23,7 +23,7 @@
             <div id="hero" class="cell">
                 <div class="grid-x grid-padding-x">
                     <div class="large-6 cell medium-8">
-                        <h1>We know people. We know places.</h1>
+                        <h1>We know people. <br/>We know places.</h1>
                         <h4>[insert key copy highlighting the difference between popertee &amp; marketplace competitors here]
                         </h4>
                     </div>
