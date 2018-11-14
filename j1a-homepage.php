@@ -57,9 +57,12 @@
 
             <!-- J3 panel -->
             <div id="secondary-hero" class="cell">
-                <div class="grid-x grid-padding-x">
-                    <div class="cell">
-                        User journey 3
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div id="j3-hero" class="cell">
+                        <h2>Journey 3</h2>
+                        <p>BASIC SEARCH: OUTSIDE OF LONDON OR NO DATA JOURNEY.
+                        </p>
+                        <a href="#" class="button large secondary">Journey 3</a>
                     </div>
                 </div>
             </div>
