@@ -67,7 +67,7 @@
                                         <div class="expanded button-group">
                                             <a class="button ">Male</a>
                                             <a class="button">Female</a>
-                                            <a class="button secondar">Not important</a>
+                                            <a class="button secondary">Not important</a>
                                         </div>
                                         <label>Earnings</label>
                                         <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
