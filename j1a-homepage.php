@@ -32,8 +32,8 @@
 
             <!-- choice panel -->
             <div id="choice" class="cell">
-                <div class="grid-x grid-padding-x">
-                    <div class="large-6 cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div id="j1-hero" class="large-6 cell">
                         <h2>Journey 1</h2>
                         <ul>
                             <li>User knows audience</li>
@@ -42,7 +42,7 @@
                             <li>User can download data pack</li>
                         </ul>
                     </div>
-                    <div class="large-6 cell">
+                    <div id="j2-hero" class="large-6 cell">
                         <h2>Journey 2</h2>
                         <ul>
                             <li>User knows location (address)</li>
