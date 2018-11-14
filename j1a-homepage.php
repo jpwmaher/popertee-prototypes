@@ -64,10 +64,10 @@
             </div>
 
             <!-- J3 panel -->
-            <div id="j3" class="cell">
+            <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-2 cell"></div>
-                    <div class="large-8 cell">
+                    <div id="j3" class="large-8 cell">
                         <div class="grid-x grid-padding-x grid-margin-x">
                             <div id="j3-hero" class="large-6 cell">
                                 <h2>Journey 3</h2>
