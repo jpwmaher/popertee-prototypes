@@ -38,9 +38,15 @@
                 <fieldset>
                     <legend>Choose Your Favorite</legend>
                     <input type="radio" name="pokemon" value="Red" id="pokemonRed" required><label for="pokemonRed">Red</label>
-                    <input type="radio" name="pokemon" value="Blue" id="pokemonBlue"><label for="pokemonBlue">Blue</label>
+                    <input type="radio" name="pokemon" value="Blue" id="pokemonBlue" data-toggle-focus="form-callout"><label for="pokemonBlue">Blue</label>
                     <input type="radio" name="pokemon" value="Yellow" id="pokemonYellow"><label for="pokemonYellow">Yellow</label>
                 </fieldset>
+            </div>
+
+            <div class="cell">
+                <div class="secondary callout is-hidden" id="form-callout" data-toggler="is-hidden">
+                    <p>This is only visible when the above field has focus.</p>
+                </div>
             </div>
 
             <!-- choice panel -->
