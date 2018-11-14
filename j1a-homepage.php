@@ -73,7 +73,7 @@
                     </div>
                     <div id="j3-hero-form" class="large-6 cell">
                         <form>
-                            <div class="grid-x grid-padding-x grid-margin-x">
+                            <div class="grid-x grid-padding-x">
                                 <div class="large-8 cell">
                                     <input type="text" placeholder="Where do you want to pop-up"><br/></div>
                                 <div class="large-4 cell"></div>
