@@ -239,14 +239,19 @@ label {
 #j1-hero {
     background: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 30px;
 }
 
 #j2-hero {
     background: rgba(255, 255, 255, 0.2);
     border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 30px;
 }
 
 #j3 {
+    margin-top: 30px;
     background: rgba(255, 255, 255, 0.3);
     padding: 30px;
     border-radius: 5px;
