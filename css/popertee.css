@@ -275,8 +275,13 @@ label {
 .tabs-content {
     background: rgba(255, 255, 255, 0.9);
     border: 0px !important;
-    border-radius: 0px;
     color: #444;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 .tabs-title {
