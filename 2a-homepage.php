@@ -60,7 +60,7 @@
   </select>
 </label>
                                 <br/>
-                                <div class="output">
+                                <!--   <div class="output">
                                     <div id="audience-search" class="colors red">
                                         <h4>Find your audience</h4>
                                         <label>Gender</label>
@@ -81,18 +81,18 @@
                                     </div>
                                     <div id="yellow" class="colors yellow"> Audience data is currently only available for London</div>
                                 </div>
-                            </div>
-                            <div class="tabs-panel" id="panel2">
-                                <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+                            </div> -->
+                                <div class="tabs-panel" id="panel2">
+                                    <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+                                </div>
                             </div>
                         </div>
+                        <div class="large-3 cell"></div>
                     </div>
-                    <div class="large-3 cell"></div>
                 </div>
             </div>
-        </div>
 
-        <!-- choice panel 
+            <!-- choice panel 
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
@@ -152,7 +152,7 @@
             </div> -->
 
 
-    </div>
+        </div>
     </div>
 
     <?php include("include-popertee-javascripts.php"); ?>
