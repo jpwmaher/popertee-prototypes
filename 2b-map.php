@@ -55,36 +55,46 @@
                 </select></div>
         </div>
 
-        <!-- Audience filters -->
-        <div id="audience-filters" class="colors2 red">
-            <div class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-5">
-                <div class="cell">
-                    <label>Gender</label>
-                    <div class="tiny button-group">
-                        <a class="tiny button hollow">Male</a>
-                        <a class="tiny button hollow">Female</a>
-                        <a class="tiny button">Not important</a>
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="large-3 cell">
+                <!-- Audience filters -->
+                <div id="audience-filters" class="colors2 red">
+                    <div class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-5">
+                        <div class="cell">
+                            <label>Gender</label>
+                            <div class="tiny button-group">
+                                <a class="tiny button hollow">Male</a>
+                                <a class="tiny button hollow">Female</a>
+                                <a class="tiny button">Not important</a>
+                            </div>
+                        </div>
+                        <div class="cell"><label>Age</label>
+                            <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                                <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                <span class="slider-fill" data-slider-fill></span>
+                                <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                <input type="hidden">
+                                <input type="hidden">
+                            </div>
+                        </div>
+                        <div class="cell"><label>Earnings</label>
+                            <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                                <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                <span class="slider-fill" data-slider-fill></span>
+                                <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                <input type="hidden">
+                                <input type="hidden">
+                            </div>
+                        </div>
+                        <div class="cell">Interests</div>
                     </div>
                 </div>
-                <div class="cell"><label>Age</label>
-                    <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
-                        <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                        <span class="slider-fill" data-slider-fill></span>
-                        <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                        <input type="hidden">
-                        <input type="hidden">
-                    </div>
-                </div>
-                <div class="cell"><label>Earnings</label>
-                    <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
-                        <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                        <span class="slider-fill" data-slider-fill></span>
-                        <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                        <input type="hidden">
-                        <input type="hidden">
-                    </div>
-                </div>
-                <div class="cell">Interests</div>
+            </div>
+            <div class="large-6 cell">
+                <h3>Map</h3>
+            </div>
+            <div class="large-3 cell">
+                <h3>Cards</h3>
             </div>
         </div>
 
