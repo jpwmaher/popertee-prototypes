@@ -104,66 +104,16 @@
             </div>
         </div>
 
-        <!-- choice panel 
-            <div id="choice" class="cell">
-                <div class="grid-x grid-padding-x grid-margin-x">
-                    <div id="j1-hero" class="large-6 cell">
-                        <h2>Journey 1</h2>
-                        <ul>
-                            <li>User knows audience</li>
-                            <li>User wants to find out best location/space to engage with their target audience </li>
-                            <li>Map lead journey </li>
-                            <li>User can download data pack</li>
-                        </ul>
-                        <a href="#" class="button large secondary">Journey 1</a>
-                    </div>
-                    <div id="j2-hero" class="large-6 cell">
-                        <h2>Journey 2</h2>
-                        <ul>
-                            <li>User knows location (address)</li>
-                            <li>User wants data insights on a specific location</li>
-                            <li>User can enter location download a data pack</li>
-                        </ul>
-                        <a href="#" class="button large secondary">Journey 2</a>
-                    </div>
+        <div class="cell">
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div id="map" class="large-8 cell">
+                    <h2>Map</h2>
                 </div>
             </div>
-
-            <div class="cell">
-                <hr>
-            </div>
-
-
-            <div class="cell">
-                <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-2 cell"></div>
-                    <div id="j3" class="large-8 cell">
-                        <div class="grid-x grid-padding-x grid-margin-x">
-                            <div id="j3-hero" class="large-6 cell">
-                                <h2>Journey 3</h2>
-                                <p>BASIC SEARCH: OUTSIDE OF LONDON OR NO DATA JOURNEY.
-                                </p>
-                            </div>
-                            <div id="j3-hero-form" class="large-6 cell">
-                                <form>
-                                    <div class="grid-x grid-padding-x">
-                                        <div class="cell">
-                                            <input type="text" placeholder="Where do you want to pop-up"><br/></div>
-                                    </div>
-                                    <div class="grid-x grid-padding-x">
-                                        <div class="cell">
-                                            <input type="text" placeholder="When do you want to pop-up"><br/></div>
-                                    </div>
-                                </form>
-                                <a href="#" class="button large secondary">Journey 3</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="large-2 cell"></div>
-                </div>
-            </div> -->
-
-
+        </div>
+        <div class="large-4 cell">
+            <h2>Cards</h2>
+        </div>
     </div>
 
 
