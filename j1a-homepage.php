@@ -41,6 +41,7 @@
                             <li>Map lead journey </li>
                             <li>User can download data pack</li>
                         </ul>
+                        <a href="#" class="button large secondary">Journey 1</a>
                     </div>
                     <div id="j2-hero" class="large-6 cell">
                         <h2>Journey 2</h2>
@@ -49,6 +50,7 @@
                             <li>User wants data insights on a specific location</li>
                             <li>User can enter location download a data pack</li>
                         </ul>
+                        <a href="#" class="button large secondary">Journey 2</a>
                     </div>
                 </div>
             </div>
