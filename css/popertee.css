@@ -272,6 +272,11 @@ label {
     border: 0px !important;
 }
 
+..tabs-content {
+    background: rgba(255, 255, 255, 0.3);
+    border: 0ps !important;
+}
+
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {}
