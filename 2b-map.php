@@ -59,7 +59,7 @@
             <div class="large-3 cell">
                 <!-- Audience filters -->
                 <div id="audience-filters" class="colors2 red">
-                    <div class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-5">
+                    <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-1">
                         <div class="cell">
                             <label>Gender</label>
                             <div class="tiny button-group">
