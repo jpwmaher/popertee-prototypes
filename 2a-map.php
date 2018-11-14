@@ -24,7 +24,7 @@
         <div id="property-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-5">
             <div class="cell">
                 <label>Location</label>
-                <select id='colorselector'>
+                <select id='colorselector2'>
                     <option  value="audience-filters">London</option>
       <option value="">Somewhere else</option>
                 </select>
@@ -56,7 +56,7 @@
         </div>
 
         <!-- Audience filters -->
-        <div id="audience-filters" class="colors red">
+        <div id="audience-filters" class="colors2 red">
             <div class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-5">
                 <div class="cell">
                     <label>Gender</label>

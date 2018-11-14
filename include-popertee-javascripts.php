@@ -13,3 +13,12 @@
     });
 
 </script>
+<script>
+    $(function() {
+        $('#colorselector2').change(function() {
+            $('.colors2').hide();
+            $('#' + $(this).val()).show();
+        });
+    });
+
+</script>
