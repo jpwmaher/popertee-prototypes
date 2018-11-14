@@ -19,7 +19,7 @@
             <?php include("include-popertee-masthead.php"); ?>
 
             <!-- Hero panel -->
-            <div class="cell">
+            <div id="hero" class="cell">
                 <div class="grid-x grid-padding-x">
                     <div class="large-6 cell">
                         Hello
@@ -31,7 +31,7 @@
             </div>
 
             <!-- J3 panel -->
-            <div class="cell">
+            <div id="secondary-hero" class="cell">
                 <div class="grid-x grid-padding-x">
                     <div class="cell">
                         User journey 3
