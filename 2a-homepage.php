@@ -57,6 +57,13 @@
                                     <div id="yellow" class="colors yellow"> “Art is the lie that enables us to realize the truth” Pablo Picasso</div>
                                     <div id="blue" class="colors blue"> “If I don't have red, I use blue” Pablo Picasso</div>
                                 </div>
+                                <br/>
+                                <label>Type of space
+  <select id="spacetype">
+    <option value="space-any">Any</option>
+    <option value="space-offices">Offices</option>
+  </select>
+</label>
                             </div>
                             <div class="tabs-panel" id="panel2">
                                 <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
