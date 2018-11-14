@@ -63,7 +63,7 @@
                 <hr>
             </div>
 
-            <!-- J3 panel -->
+            <!-- J3 panel 
             <div id="j3" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j3-hero" class="large-6 cell">
@@ -83,7 +83,7 @@
                         <a href="#" class="button large secondary">Journey 3</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
 
         </div>
