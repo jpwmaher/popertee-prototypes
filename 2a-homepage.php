@@ -86,9 +86,10 @@
                                             <input type="hidden">
                                         </div>
                                         <br/>
+                                        <a class="button primary expanded">Search for pop-ups</a>
                                     </div>
                                     <div id="yellow" class="colors yellow">
-                                        <a class="button primary">Search for pop-ups</a>
+                                        <a class="button secondary expanded">Search for pop-ups</a>
                                         <p>Audience data is currently only available for London</p>
                                     </div>
                                 </div>
