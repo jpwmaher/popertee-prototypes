@@ -104,16 +104,7 @@
             </div>
         </div>
 
-        <div class="cell">
-            <div class="grid-x grid-padding-x grid-margin-x">
-                <div id="map" class="large-8 cell">
-                    <h2>Map</h2>
-                </div>
-            </div>
-        </div>
-        <div class="large-4 cell">
-            <h2>Cards</h2>
-        </div>
+
     </div>
 
 

@@ -88,15 +88,6 @@
             </div>
         </div>
 
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="large-8 cell">
-                <h3>Map</h3>
-            </div>
-            <div class="large-4 cell">
-                <h3>Cards</h3>
-            </div>
-        </div>
-
     </div>
 
     <?php include("include-popertee-javascripts.php"); ?>
