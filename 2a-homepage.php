@@ -34,7 +34,7 @@
                 <hr>
             </div>
 
-            <div class="cell">
+            <div id="main-search-tabs" class="cell">
                 <ul class="tabs" data-tabs id="example-tabs">
                     <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Pop-ups &amp; audience</a></li>
                     <li class="tabs-title"><a data-tabs-target="panel2" href="#panel2">Location data</a></li>

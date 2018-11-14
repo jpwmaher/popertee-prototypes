@@ -263,6 +263,10 @@ label {
     border-radius: 5px;
 }
 
+#main-search-tabs {
+    text-align: center;
+}
+
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {}
