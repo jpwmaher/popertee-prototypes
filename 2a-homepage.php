@@ -24,7 +24,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="cell">
                         <h1>We know people. <br/>We know places.</h1>
-                        <h4>insert key copy highlighting the difference between popertee &amp; marketplace competitors here<br/>
+                        <h4>You know your audience. We know where to find them.<br/>
                         </h4>
                     </div>
                 </div>
