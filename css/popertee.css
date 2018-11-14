@@ -273,7 +273,7 @@ label {
 }
 
 .tabs-content {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.8);
     border: 0px !important;
 }
 
@@ -284,14 +284,14 @@ label {
 
 .tabs-title > a:focus,
 .tabs-title > a[aria-selected='true'] {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.8);
     color: #005EB8;
     -webkit-border-top-left-radius: 5px;
--webkit-border-top-right-radius: 5px;
--moz-border-radius-topleft: 5px;
--moz-border-radius-topright: 5px;
-border-top-left-radius: 5px;
-border-top-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 
     /* Small only */
     @media screen and (max-width: 39.9375em) {}
