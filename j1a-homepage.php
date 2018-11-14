@@ -77,14 +77,12 @@
                             <div id="j3-hero-form" class="large-6 cell">
                                 <form>
                                     <div class="grid-x grid-padding-x">
-                                        <div class="large-8 cell">
+                                        <div class="cell">
                                             <input type="text" placeholder="Where do you want to pop-up"><br/></div>
-                                        <div class="large-4 cell"></div>
                                     </div>
                                     <div class="grid-x grid-padding-x">
-                                        <div class="large-8 cell">
+                                        <div class="cell">
                                             <input type="text" placeholder="When do you want to pop-up"><br/></div>
-                                        <div class="large-4 cell"></div>
                                     </div>
                                 </form>
                                 <a href="#" class="button large secondary">Journey 3</a>

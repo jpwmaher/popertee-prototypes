@@ -260,6 +260,7 @@ label {
 #j3-hero-form {
     background-color: rgba(172, 224, 239, .65);
     padding: 20px;
+    border-radius: 5px;
 }
 
 /* Small only */
