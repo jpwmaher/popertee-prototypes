@@ -21,14 +21,11 @@
 
             <!-- hero panel -->
             <div id="hero" class="cell">
-                <div class="grid-x grid-padding-x">
-                    <div class="large-6 cell medium-8">
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="cell">
                         <h1>We know people. <br/>We know places.</h1>
                         <h4>[insert key copy highlighting the difference between popertee &amp; marketplace competitors here]
                         </h4>
-                    </div>
-                    <div class="large-6 cell medium-4">
-                        <img src="img/poperteeLogoWhite.svg">
                     </div>
                 </div>
             </div>
