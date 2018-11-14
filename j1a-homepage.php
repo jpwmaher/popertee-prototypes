@@ -30,6 +30,10 @@
                 </div>
             </div>
 
+            <div class="cell">
+                <hr>
+            </div>
+
             <!-- choice panel -->
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
