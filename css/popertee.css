@@ -275,6 +275,7 @@ label {
 .tabs-content {
     background: rgba(255, 255, 255, 0.8);
     border: 0px !important;
+    border-radius: 5px;
 }
 
 .tabs-title {
