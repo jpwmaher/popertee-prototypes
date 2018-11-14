@@ -257,6 +257,11 @@ label {
     border-radius: 5px;
 }
 
+#j3-hero-form {
+    background-color: rgba(172, 224, 239, .65);
+    padding: 20px;
+}
+
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {}
