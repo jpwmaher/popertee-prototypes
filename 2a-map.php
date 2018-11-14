@@ -22,10 +22,17 @@
 
         <!-- Property filters -->
         <div id="propety-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-8">
-            <div class="cell">Type</div>
-            <div class="cell">Rent</div>
-            <div class="cell">Size</div>
-            <div class="cell">Features</div>
+            <div class="cell">
+                <label>Type</label>
+                <select>
+                    <option value="none">Any</option>
+      <option value="">Office</option>
+    <option value="">Showroom</option>
+                </select>
+            </div>
+            <div class="cell"> <label>Rent</label></div>
+            <div class="cell"> <label>Size</label></div>
+            <div class="cell"> <label>Features</label></div>
         </div>
 
         <!-- Audience filters -->
