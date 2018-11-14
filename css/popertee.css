@@ -316,6 +316,14 @@ label {
     border-radius: 5px;
 }
 
+#property-filters {
+    background: rgba(255, 255, 255, 0.8) !important;
+}
+
+#audience-filters {
+    background: rgba(255, 51, 153, 0.8) !important;
+}
+
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {}
