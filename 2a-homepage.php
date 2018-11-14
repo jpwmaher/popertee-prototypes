@@ -48,11 +48,11 @@
                             <div class="tabs-panel is-active" id="panel1">
                                 <label>Location
   <select id="colorselector">
-    <option value="red">London</option>
+    <option value="none">Where do you want to pop-up</option>
+      <option value="red">London</option>
     <option value="yellow">Somewhere else</option>
   </select>
 </label>
-                                <br/>
                                 <label>Type of space
   <select id="spacetype">
     <option value="space-any">Any</option>
