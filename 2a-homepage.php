@@ -86,7 +86,7 @@
                                             <input type="hidden">
                                         </div>
                                         <br/>
-                                        <a class="button primary expanded">Search for pop-ups</a>
+                                        <a class="button primary expanded" href="2a-map.php">Search for pop-ups</a>
                                     </div>
                                     <div id="yellow" class="colors yellow">
                                         <a class="button secondary expanded">Search for pop-ups</a>
