@@ -21,7 +21,7 @@
         </div>
 
         <!-- Property filters -->
-        <div id="propety-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-8">
+        <div id="property-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-8">
             <div class="cell">
                 <label>Type</label>
                 <select>
