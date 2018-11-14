@@ -60,6 +60,7 @@
                 <!-- Audience filters -->
                 <div>
                     <h4>Audience filters</h4>
+                    <h6>London-only</h6>
                     <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-1">
                         <div class="cell">
                             <label>Gender</label>
