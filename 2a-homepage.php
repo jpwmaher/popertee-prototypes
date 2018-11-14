@@ -42,8 +42,8 @@
                     <div class="large-4 cell"></div>
                 </div>
                 <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-3 cell"></div>
-                    <div class="large-6 cell">
+                    <div class="large-2 cell"></div>
+                    <div class="large-8 cell">
                         <div class="tabs-content" data-tabs-content="example-tabs">
                             <div class="tabs-panel is-active" id="panel1">
                                 <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
@@ -53,6 +53,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="large-2 cell"></div>
                 </div>
             </div>
         </div>
