@@ -12,8 +12,6 @@
 
 <body>
 
-    <?php include("include-popertee-scrolltotop.php"); ?>
-
     <div id="content-main" class="grid-container full">
         <div class="grid-x grid-padding-x grid-margin-x">
 
