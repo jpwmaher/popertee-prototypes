@@ -52,7 +52,7 @@
         <div id="audience-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-6">
             <div class="cell">
                 <label>Gender</label>
-                <div class="expanded button-group">
+                <div class="tiny button-group">
                     <a class="tiny button hollow">Male</a>
                     <a class="tiny button hollow">Female</a>
                     <a class="tiny button">Not important</a>
