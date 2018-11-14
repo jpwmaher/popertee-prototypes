@@ -18,8 +18,18 @@
             <!-- Masthead -->
             <?php include("include-popertee-masthead.php"); ?>
 
-            <!-- Hero panel -->
+
+            <!-- hero panel -->
             <div id="hero" class="cell">
+                <div class="grid-x grid-padding-x">
+                    <div class="cell">
+                        <h1>We know people. We know places.</h1>
+                    </div>
+                </div>
+            </div>
+
+            <!-- choice panel -->
+            <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x">
                     <div class="large-6 cell">
                         Hello
