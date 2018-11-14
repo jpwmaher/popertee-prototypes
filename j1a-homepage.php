@@ -72,7 +72,10 @@
                         </p>
                     </div>
                     <div id="j3-hero" class="large-6 cell">
-                        <p>Search form</p>
+                        <form>
+                            <input type="text" placeholder="Where do you want to pop-up"><br/>
+                            <input type="text" placeholder="When do you want to pop-up"><br/>
+                        </form>
                         <a href="#" class="button large secondary">Journey 3</a>
                     </div>
                 </div>
