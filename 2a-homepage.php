@@ -49,7 +49,7 @@
                                 <label>Location
   <select id="colorselector">
     <option value="none">Where do you want to pop-up</option>
-      <option value="red">London</option>
+      <option value="audience-search">London</option>
     <option value="yellow">Somewhere else</option>
   </select>
 </label>
@@ -61,7 +61,7 @@
 </label>
                                 <br/>
                                 <div class="output">
-                                    <div id="red" class="colors red">
+                                    <div id="audience-search" class="colors red">
                                         <label>Earnings</label>
                                         <div class="slider" data-slider data-initial-start="50" data-end="200">
                                             <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
