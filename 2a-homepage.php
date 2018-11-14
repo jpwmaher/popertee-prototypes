@@ -46,7 +46,17 @@
                     <div class="large-6 cell">
                         <div class="tabs-content" data-tabs-content="example-tabs">
                             <div class="tabs-panel is-active" id="panel1">
-                                <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+                                <label>Location
+  <select id="colorselector">
+    <option value="red">London</option>
+    <option value="yellow">Somewhere else</option>
+  </select>
+</label>
+                                <div class="output">
+                                    <div id="red" class="colors red"> “Good artists copy, great artists steal” Pablo Picasso</div>
+                                    <div id="yellow" class="colors yellow"> “Art is the lie that enables us to realize the truth” Pablo Picasso</div>
+                                    <div id="blue" class="colors blue"> “If I don't have red, I use blue” Pablo Picasso</div>
+                                </div>
                             </div>
                             <div class="tabs-panel" id="panel2">
                                 <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
