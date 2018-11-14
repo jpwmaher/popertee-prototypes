@@ -61,9 +61,16 @@
 </label>
                                 <br/>
                                 <div class="output">
-                                    <div id="red" class="colors red"> “Good artists copy, great artists steal” Pablo Picasso</div>
-                                    <div id="yellow" class="colors yellow"> “Art is the lie that enables us to realize the truth” Pablo Picasso</div>
-                                    <div id="blue" class="colors blue"> “If I don't have red, I use blue” Pablo Picasso</div>
+                                    <div id="red" class="colors red">
+                                        <label>Earnings</label>
+                                        <div class="slider" data-slider data-initial-start="50" data-end="200">
+                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                                            <span class="slider-fill" data-slider-fill></span>
+                                            <input type="hidden">
+                                        </div>
+
+                                    </div>
+                                    <div id="yellow" class="colors yellow"> Audience data is currently only available for London</div>
                                 </div>
                             </div>
                             <div class="tabs-panel" id="panel2">
