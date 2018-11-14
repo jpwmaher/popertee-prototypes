@@ -25,7 +25,7 @@
             <div id="research" class="cell" style="margin-top: 40px;">
                 <h2>Prototypes</h2><br/>
                 <div class="grid-x grid-padding-x grid-margin-x small-up-1 medium-up-3 large-up-4">
-                    <div class="cell nav-panel"><a class="button hollow expanded " href="132-research-done.html">J1</a></div>
+                    <div class="cell nav-panel"><a class="button hollow expanded " href="j1a-homepage.php">J1</a></div>
                 </div>
             </div>
         </div>
