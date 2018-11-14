@@ -273,19 +273,22 @@ label {
 }
 
 .tabs-content {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.9);
     border: 0px !important;
     border-radius: 5px;
 }
 
 .tabs-title {
     background: rgba(255, 255, 255, 0);
-    font-size: 24px;
+}
+
+.tabs-title > a {
+    font-size: 18px;
 }
 
 .tabs-title > a:focus,
 .tabs-title > a[aria-selected='true'] {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.9);
     color: #005EB8;
     -webkit-border-top-left-radius: 5px;
     -webkit-border-top-right-radius: 5px;
