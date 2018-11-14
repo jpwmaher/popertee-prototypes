@@ -276,6 +276,7 @@ label {
     background: rgba(255, 255, 255, 0.9);
     border: 0px !important;
     border-radius: 5px;
+    color: #444;
 }
 
 .tabs-title {
@@ -284,6 +285,7 @@ label {
 
 .tabs-title > a {
     font-size: 18px;
+    color: white;
 }
 
 .tabs-title > a:focus,
