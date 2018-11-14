@@ -5,24 +5,14 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <?php include("include-concept-a-head.php"); ?>
+    <?php include("include-popertee-head.php"); ?>
 </head>
 
-<?php include("variables-concept-a.php"); ?>
-
-<style>
-    #tab-1 {
-        background-color: #005EB8 !important;
-        color: #fefefe;
-        font-weight: bold;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
-    }
-
-</style>
+<?php include("variables-popertee.php"); ?>
 
 <body>
 
-    <?php include("include-concept-a-scrolltotop.php"); ?>
+    <?php include("include-popertee-scrolltotop.php"); ?>
 
     <div id="content-main" class="grid-container full">
         <div class="grid-x grid-padding-x grid-margin-x">
@@ -209,7 +199,7 @@
         </div>
     </div>
 
-    <?php include("include-concept-a-javascripts.php"); ?>
+    <?php include("include-popertee-javascripts.php"); ?>
 
 </body>
 
