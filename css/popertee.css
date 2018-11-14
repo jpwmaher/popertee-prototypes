@@ -310,7 +310,7 @@ label {
 }
 
 #audience-search {
-    background: rgba(255, 51, 153, 0.8) !important;
+    background: rgba(255, 51, 153, 0.4) !important;
     color: white;
     padding: 10px;
     border-radius: 5px;
@@ -322,7 +322,7 @@ label {
 }
 
 #audience-filters {
-    background: rgba(255, 51, 153, 0.8) !important;
+    background: rgba(255, 51, 153, 0.4) !important;
     padding: 10px;
 }
 
