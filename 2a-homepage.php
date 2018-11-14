@@ -32,7 +32,7 @@
 
             <div id="tabs" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-3 cell"></div>
+                    <div class="large-1 cell"></div>
                     <div id="main-search-tabs" class="large-6 cell">
                         <ul class="tabs" data-tabs id="example-tabs">
                             <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Find pop-ups &amp; audience</a></li>
