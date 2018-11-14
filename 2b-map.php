@@ -67,7 +67,7 @@
                             <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-3">
                                 <div class="cell"><a class="expanded button hollow">Male</a></div>
                                 <div class="cell"><a class="expanded button hollow">Female</a></div>
-                                <div class="cell"><a class="expanded button">Not important</a></div>
+                                <div class="cell"><a class="expanded button">Either</a></div>
                             </div>
                         </div>
                         <div class="cell"><label>Age</label>
