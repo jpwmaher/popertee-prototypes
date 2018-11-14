@@ -218,6 +218,10 @@ label {
     background: PapayaWhip;
 }
 
+#hero {
+    min-height: 10vmin;
+    padding: 20px;
+}
 
 /* Small only */
 
