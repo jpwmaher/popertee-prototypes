@@ -323,6 +323,7 @@ label {
 
 #audience-filters {
     background: rgba(255, 51, 153, 0.8) !important;
+    padding: 10px;
 }
 
 /* Small only */

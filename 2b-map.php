@@ -55,10 +55,11 @@
                 </select></div>
         </div>
 
-        <div class="grid-x grid-padding-x grid-margin-x">
+        <div class="grid-x grid-padding-x">
             <div class="large-3 cell">
                 <!-- Audience filters -->
                 <div id="audience-filters" class="colors2 red">
+                    <h4>Audience filters</h4>
                     <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-1">
                         <div class="cell">
                             <label>Gender</label>
