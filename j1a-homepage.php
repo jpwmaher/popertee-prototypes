@@ -64,14 +64,14 @@
             </div>
 
             <!-- J3 panel -->
-            <div id="secondary-hero" class="cell">
+            <div id="j3" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j3-hero" class="large-6 cell">
                         <h2>Journey 3</h2>
                         <p>BASIC SEARCH: OUTSIDE OF LONDON OR NO DATA JOURNEY.
                         </p>
                     </div>
-                    <div id="j3-hero" class="large-6 cell">
+                    <div id="j3-hero-form" class="large-6 cell">
                         <form>
                             <input type="text" placeholder="Where do you want to pop-up"><br/>
                             <input type="text" placeholder="When do you want to pop-up"><br/>
