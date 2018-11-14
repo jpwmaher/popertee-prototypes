@@ -34,10 +34,21 @@
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x">
                     <div class="large-6 cell">
-                        Hello
+                        <h2>Journey 1</h2>
+                        <ul>
+                            <li>User knows audience</li>
+                            <li>User wants to find out best location/space to engage with their target audience </li>
+                            <li>Map lead journey </li>
+                            <li>User can download data pack</li>
+                        </ul>
                     </div>
                     <div class="large-6 cell">
-                        Goodbye
+                        <h2>Journey 2</h2>
+                        <ul>
+                            <li>User knows location (address)</li>
+                            <li>User wants data insights on a specific location</li>
+                            <li>User can enter location download a data pack</li>
+                        </ul>
                     </div>
                 </div>
             </div>
