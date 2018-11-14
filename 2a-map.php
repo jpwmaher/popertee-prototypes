@@ -30,9 +30,22 @@
     <option value="">Showroom</option>
                 </select>
             </div>
-            <div class="cell"> <label>Rent</label></div>
-            <div class="cell"> <label>Size</label></div>
-            <div class="cell"> <label>Features</label></div>
+            <div class="cell"> <label>Rent</label><select>
+                    <option value="none">Any</option>
+      <option value="">0 - 200</option>
+    <option value="">201 - 300</option>
+                </select></div>
+            <div class="cell"> <label>Size</label><select>
+                    <option value="none">Any</option>
+      <option value="">Under 500 sq.ft</option>
+    <option value="">500 - 1000 sq.ft</option>
+                <option value="">Over 1000 sq.ft</option>
+                </select></div>
+            <div class="cell"> <label>Features</label><select>
+                    <option value="none">Any</option>
+      <option value="">Office</option>
+    <option value="">Showroom</option>
+                </select></div>
         </div>
 
         <!-- Audience filters -->
