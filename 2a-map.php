@@ -23,6 +23,13 @@
         <!-- Property filters -->
         <div id="property-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-8">
             <div class="cell">
+                <label>Location</label>
+                <select id='colorselector'>
+                    <option  value="audience-filters">London</option>
+      <option value="">Somewhere else</option>
+                </select>
+            </div>
+            <div class="cell">
                 <label>Type</label>
                 <select>
                     <option value="none">Any</option>
@@ -49,7 +56,7 @@
         </div>
 
         <!-- Audience filters -->
-        <div id="audience-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-6">
+        <div id="audience-filters" class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-6 colors red">
             <div class="cell">
                 <label>Gender</label>
                 <div class="tiny button-group">
