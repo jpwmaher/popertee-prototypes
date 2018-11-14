@@ -59,6 +59,10 @@
                 </div>
             </div>
 
+            <div class="cell">
+                <hr>
+            </div>
+
             <!-- J3 panel -->
             <div id="secondary-hero" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
