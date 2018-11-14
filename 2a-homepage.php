@@ -30,10 +30,6 @@
                 </div>
             </div>
 
-            <div class="cell">
-                <hr>
-            </div>
-
             <div id="main-search-tabs" class="cell">
                 <ul class="tabs" data-tabs id="example-tabs">
                     <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Pop-ups &amp; audience</a></li>
