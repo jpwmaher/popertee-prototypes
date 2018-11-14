@@ -91,7 +91,7 @@
                     </div>
                 </div>
             </div>
-            <div class="large-6 cell">
+            <div class="large-auto cell">
                 <h3>Map</h3>
             </div>
             <div class="large-3 cell">
