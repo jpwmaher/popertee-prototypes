@@ -62,7 +62,7 @@
                                 <br/>
                                 <div class="output">
                                     <div id="audience-search" class="colors red">
-                                        <h3>Find your audience</h3>
+                                        <h4>Find your audience</h4>
                                         <label>Earnings</label>
                                         <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
                                             <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>

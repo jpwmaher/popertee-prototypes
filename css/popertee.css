@@ -310,7 +310,7 @@ label {
 }
 
 #audience-search {
-    background: #f39! important;
+    background: rgba(255, 51, 153, 0.6) !important;
     color: white;
     padding: 10px;
 }
