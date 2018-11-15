@@ -95,7 +95,7 @@
                         <div class="grid-x grid-padding-x grid-margin-x">
                             <div id="j3-hero" class="large-6 cell">
                                 <h3>Looking for data insights on an area of London?</h3>
-                                <h6>Here's a sentence explaining the data pack proposition and pricing</h6>
+                                <h6>As part of our London coverage we can offer in-depth audience data packs on boroughs, postcodes and streets within London. <span style="font-size: 10px !important; color: #f39 !important">(BETA)</span></h6>
                             </div>
                             <div id="j3-hero-form" class="large-6 cell">
                                 <label>Choose an area of London
