@@ -99,6 +99,7 @@
                                 </div>
                             </div>
                             <div class="tabs-panel" id="panel2">
+                                <h6>As part of our London coverage we can offer in-depth audience data packs on boroughs, postcodes and streets within London. <span style="font-size: 10px !important; color: #f39 !important">(BETA)</span></h6><br/>
                                 <label>Choose an area of London
                                     <input type="text" placeholder="Enter a borough, postcode or address">
                                 </label>
