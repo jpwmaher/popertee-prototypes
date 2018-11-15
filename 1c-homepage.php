@@ -38,7 +38,7 @@
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
-                        <h3>Find your perfect London pop-up</h3>
+                        <h2>Find your perfect London pop-up</h2>
                         <label>Type of space
   <select id="spacetype">
     <option value="space-any">Any</option>
@@ -47,11 +47,30 @@
       <option value="space-offices">Retail</option>
   </select>
 </label>
-                        <label>Dates
-          <input type="text" placeholder="When would you like to pop-up?">
-        </label>
+                        <label>Gender</label>
+                        <div class="expanded button-group">
+                            <a class="button hollow">Male</a>
+                            <a class="button hollow">Female</a>
+                            <a class="button">Either</a>
+                        </div>
+                        <label>Age</label>
+                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <span class="slider-fill" data-slider-fill></span>
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <input type="hidden">
+                            <input type="hidden">
+                        </div>
+                        <label>Earnings</label>
+                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <span class="slider-fill" data-slider-fill></span>
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <input type="hidden">
+                            <input type="hidden">
+                        </div>
                         <br/>
-                        <a class="button secondary large" href="2b-map.php">Search for London pop-ups</a>
+                        <a class="button secondary large" href="2b-map.php">Search for pop-ups</a>
 
                     </div>
                     <div id="j2-hero" class="large-6 cell">
