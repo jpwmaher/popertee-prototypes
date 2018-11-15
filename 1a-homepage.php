@@ -90,8 +90,8 @@
             <!-- J3 panel -->
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-2 cell"></div>
-                    <div id="j3" class="large-8 cell">
+                    <div class="large-1 cell"></div>
+                    <div id="j3" class="large-10 cell">
                         <div class="grid-x grid-padding-x grid-margin-x">
                             <div id="j3-hero" class="large-6 cell">
                                 <h3>Looking for data insights on an area of London?</h3>
@@ -105,7 +105,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-2 cell"></div>
+                    <div class="large-1 cell"></div>
                 </div>
             </div>
 
