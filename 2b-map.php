@@ -99,7 +99,12 @@
                         <img src="img/sketch-london.jpg">
                     </div>
                     <div id="cards" class="large-12 medium-12 cell">
-                        <h3>Cards</h3>
+                        <h3>Pop-ups (cards)</h3>
+                        <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-3">
+                            <div class="cell"><a class="expanded button hollow">Pop-up 1</a></div>
+                            <div class="cell"><a class="expanded button hollow">Pop-up 2</a></div>
+                            <div class="cell"><a class="expanded button hollow">Pop-up 3</a></div>
+                        </div>
                     </div>
                 </div>
             </div>
