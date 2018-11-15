@@ -46,6 +46,7 @@
                     <div class="large-6 cell">
                         <div class="tabs-content" data-tabs-content="example-tabs">
                             <div class="tabs-panel is-active" id="panel1">
+                                <h6>We have over 20,000 pop-ups in the UK &amp; Ireland. <br/><br/> And for London we have a unique collection of audience data to help you find your perfect pop-up <span style="font-size: 10px !important; color: #f39 !important">(BETA)</span></h6><br/>
                                 <label>Location
   <select>
     <option value="none">Where do you want to pop-up</option>
@@ -66,6 +67,7 @@
 
                             </div>
                             <div class="tabs-panel" id="panel2">
+                                <h6>As part of our London coverage we can offer in-depth audience data packs on boroughs, postcodes and streets within London. <span style="font-size: 10px !important; color: #f39 !important">(BETA)</span></h6><br/>
                                 <label>Choose an area of London
                                     <input type="text" placeholder="Enter a borough, postcode or address">
                                 </label>
