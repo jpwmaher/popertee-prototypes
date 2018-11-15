@@ -40,17 +40,21 @@
                     <div id="j1-hero" class="large-6 cell">
                         <h3><img src="img/Big-Ben@2x.png">&nbsp;Find your perfect London pop-up</h3>
                         <h6>Here's a sentence explaing London/Discover BETA</h6>
-                        <label>Type of space
+                        <div class="grid-x grid-padding-x grid-margin-x">
+                            <div class="large-6 cell">
+                                <label>Type of space
   <select id="spacetype">
     <option value="space-any">Any</option>
     <option value="space-offices">Offices</option>
       <option value="space-offices">Galleries</option>
       <option value="space-offices">Retail</option>
   </select>
-</label>
-                        <label>Dates
+</label></div>
+                            <div class="large-6 cell"><label>Dates
           <input type="text" placeholder="When would you like to pop-up?">
         </label>
+                            </div>
+                        </div>
                         <br/>
                         <a class="button secondary large" href="2b-map.php">Search for London pop-ups</a>
 
@@ -58,7 +62,21 @@
                     <div id="j2-hero" class="large-6 cell">
                         <h3>Looking elsewhere?</h3>
                         <h6>We have over 20,000 spaces in places like Manchester - Dublin - Bristol - Liverpool - Birmingham</h6>
-
+                        <div class="grid-x grid-padding-x grid-margin-x">
+                            <div class="large-6 cell">
+                                <label>Type of space
+  <select id="spacetype">
+    <option value="space-any">Any</option>
+    <option value="space-offices">Offices</option>
+      <option value="space-offices">Galleries</option>
+      <option value="space-offices">Retail</option>
+  </select>
+</label></div>
+                            <div class="large-6 cell"><label>Dates
+          <input type="text" placeholder="When would you like to pop-up?">
+        </label>
+                            </div>
+                        </div>
                         <a href="#" class="button large secondary">Search for pop-ups</a>
                     </div>
                 </div>
