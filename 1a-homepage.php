@@ -39,6 +39,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
                         <h3>Find your perfect London pop-up</h3>
+                        <h6>Here's a sentence explaing London/Discover BETA</h6>
                         <label>Type of space
   <select id="spacetype">
     <option value="space-any">Any</option>
@@ -55,13 +56,10 @@
 
                     </div>
                     <div id="j2-hero" class="large-6 cell">
-                        <h2>Journey 2</h2>
-                        <ul>
-                            <li>User knows location (address)</li>
-                            <li>User wants data insights on a specific location</li>
-                            <li>User can enter location download a data pack</li>
-                        </ul>
-                        <a href="#" class="button large secondary">Journey 2</a>
+                        <h3>Looking elsewhere?</h3>
+                        <h6>We have over 20,000 spaces in places like Manchester - Dublin - Bristol - Liverpool - Birmingham</h6>
+
+                        <a href="#" class="button large secondary">Search for pop-ups</a>
                     </div>
                 </div>
             </div>
@@ -78,8 +76,11 @@
                         <div class="grid-x grid-padding-x grid-margin-x">
                             <div id="j3-hero" class="large-6 cell">
                                 <h2>Journey 3</h2>
-                                <p>BASIC SEARCH: OUTSIDE OF LONDON OR NO DATA JOURNEY.
-                                </p>
+                                <ul>
+                                    <li>User knows location (address)</li>
+                                    <li>User wants data insights on a specific location</li>
+                                    <li>User can enter location download a data pack</li>
+                                </ul>
                             </div>
                             <div id="j3-hero-form" class="large-6 cell">
                                 <form>
