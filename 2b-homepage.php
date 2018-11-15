@@ -47,7 +47,7 @@
                         <div class="tabs-content" data-tabs-content="example-tabs">
                             <div class="tabs-panel is-active" id="panel1">
                                 <label>Location
-  <select id="colorselector">
+  <select>
     <option value="none">Where do you want to pop-up</option>
       <option value="audience-search">London</option>
     <option value="yellow">Somewhere else</option>
@@ -62,40 +62,8 @@
   </select>
 </label>
                                 <br/>
-                                <div class="output">
-                                    <div id="audience-search" class="colors red">
-                                        <h4>Find your audience</h4>
-                                        <h6>London-only</h6>
-                                        <label>Gender</label>
-                                        <div class="expanded button-group">
-                                            <a class="button hollow">Male</a>
-                                            <a class="button hollow">Female</a>
-                                            <a class="button">Either</a>
-                                        </div>
-                                        <label>Age</label>
-                                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
-                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                                            <span class="slider-fill" data-slider-fill></span>
-                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                                            <input type="hidden">
-                                            <input type="hidden">
-                                        </div>
-                                        <label>Earnings</label>
-                                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
-                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                                            <span class="slider-fill" data-slider-fill></span>
-                                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
-                                            <input type="hidden">
-                                            <input type="hidden">
-                                        </div>
-                                        <br/>
-                                        <a class="button secondary expanded" href="2b-map.php">Search for pop-ups</a>
-                                    </div>
-                                    <div id="yellow" class="colors yellow">
-                                        <a class="button secondary expanded">Search for pop-ups</a>
-                                        <p>Audience data is currently only available for London</p>
-                                    </div>
-                                </div>
+                                <a class="button secondary expanded" href="2b-map.php">Search for pop-ups</a>
+
                             </div>
                             <div class="tabs-panel" id="panel2">
                                 <label>Choose an area of London

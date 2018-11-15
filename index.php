@@ -24,8 +24,10 @@
         <div class="grid-x grid-padding-x">
             <div id="research" class="cell" style="margin-top: 40px;">
                 <h2>Prototypes</h2><br/>
-                <div class="grid-x grid-padding-x grid-margin-x small-up-1 medium-up-3 large-up-4">
+                <div class="grid-x grid-padding-x grid-margin-x small-up-1 medium-up-1 large-up-2">
                     <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 1 - Sam's doc</a></div>
+                    <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 2a - Audience questions asked up-front</a></div>
+                    <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 2a - No audience questions</a></div>
                 </div>
             </div>
         </div>
