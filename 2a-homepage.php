@@ -96,7 +96,10 @@
                                 </div>
                             </div>
                             <div class="tabs-panel" id="panel2">
-                                <p>Suspendisse dictum feugiat nisl ut dapibus. Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+                                <label>Choose an area of London
+                                    <input type="text" placeholder="Enter a borough, postcode or address">
+                                </label>
+                                <a class="button secondary expanded">Search for data packs</a>
                             </div>
                         </div>
                     </div>
