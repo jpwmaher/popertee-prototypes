@@ -94,10 +94,10 @@
             </div>
             <div class="large-auto cell">
                 <div class="grid-x grid-padding-x">
-                    <div id="map" class="large-8 medium-12 cell">
+                    <div id="map" class="large-12 medium-12 cell">
                         <h3>Map</h3>
                     </div>
-                    <div id="cards" class="large-4 medium-12 cell">
+                    <div id="cards" class="large-12 medium-12 cell">
                         <h3>Cards</h3>
                     </div>
                 </div>
