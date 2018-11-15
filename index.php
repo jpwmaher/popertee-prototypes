@@ -27,7 +27,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x small-up-1 medium-up-1 large-up-2">
                     <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 1 - Sam's doc</a></div>
                     <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 2a - Audience questions asked up-front</a></div>
-                    <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 2a - No audience questions</a></div>
+                    <div class="cell nav-panel"><a class="button hollow expanded " href="1a-homepage.php">Version 2b - No audience questions</a></div>
                 </div>
             </div>
         </div>
