@@ -60,10 +60,10 @@
             <div class="grid-x grid-padding-x small-up-2 medium-up-4 large-up-5">
                 <div class="cell">
                     <label>Gender</label>
-                    <div class="tiny button-group">
-                        <a class="tiny button hollow">Male</a>
-                        <a class="tiny button hollow">Female</a>
-                        <a class="tiny button">Either</a>
+                    <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-3">
+                        <div class="cell"><a class="expanded button hollow">Male</a></div>
+                        <div class="cell"><a class="expanded button hollow">Female</a></div>
+                        <div class="cell"><a class="expanded button">Either</a></div>
                     </div>
                 </div>
                 <div class="cell"><label>Age</label>
@@ -94,7 +94,7 @@
             </div>
             <div id="cards" class="large-4 cell">
                 <h3>Pop-ups (cards)</h3>
-                <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-3">
+                <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-2">
                     <div class="cell"><a class="expanded button hollow">Pop-up 1</a></div>
                     <div class="cell"><a class="expanded button hollow">Pop-up 2</a></div>
                     <div class="cell"><a class="expanded button hollow">Pop-up 3</a></div>
