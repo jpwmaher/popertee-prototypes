@@ -96,7 +96,7 @@
                 <div class="grid-x grid-padding-x">
                     <div id="map" class="large-12 medium-12 cell">
                         <!-- <h3>Map</h3> -->
-                        <img src="img/sketch-london-2.jpg">
+                        <img src="img/sketch-london.jpg">
                     </div>
                     <div id="cards" class="large-12 medium-12 cell">
                         <h3>Cards</h3>
