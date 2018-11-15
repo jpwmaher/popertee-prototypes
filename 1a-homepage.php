@@ -38,7 +38,7 @@
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
-                        <h3><img src="img/Big-Ben@2x.png" style="height: 24px;">&nbsp;Find your perfect London pop-up</h3>
+                        <h3><img src="img/Big-Ben@2x.png" style="height: 32px;">&nbsp;Find your perfect London pop-up</h3>
                         <h6>Here's a sentence explaing London/Discover BETA</h6>
                         <div class="grid-x grid-padding-x grid-margin-x">
                             <div class="large-6 cell">
