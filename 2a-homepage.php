@@ -68,10 +68,10 @@
                                         <h4>Find your audience</h4>
                                         <h6>London-only</h6>
                                         <label>Gender</label>
-                                        <div class="expanded button-group">
-                                            <a class="button hollow">Male</a>
-                                            <a class="button hollow">Female</a>
-                                            <a class="button">Either</a>
+                                        <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-3">
+                                            <div class="cell"><a class="expanded button hollow">Male</a></div>
+                                            <div class="cell"><a class="expanded button hollow">Female</a></div>
+                                            <div class="cell"><a class="expanded button">Either</a></div>
                                         </div>
                                         <label>Age</label>
                                         <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
