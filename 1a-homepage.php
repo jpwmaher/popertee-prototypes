@@ -93,12 +93,13 @@
                     <div id="j3" class="large-8 cell">
                         <div class="grid-x grid-padding-x grid-margin-x">
                             <div id="j3-hero" class="large-6 cell">
-                                <h2>Journey 3</h2>
-                                <ul>
-                                    <li>User knows location (address)</li>
-                                    <li>User wants data insights on a specific location</li>
-                                    <li>User can enter location download a data pack</li>
-                                </ul>
+                                <h3>Looking for data insights on an area of London?</h3>
+                                <h6>Here's a sentence explaining the data pack proposition and pricing</h6>
+                                <label>Choose an area of London
+                                    <input type="text" placeholder="Enter a borough, postcode or address">
+                                </label>
+                                <p>Here's some copy which explains what can be expected in the data packs, and perhaps pricing etc</p>
+                                <a class="button secondary expanded">Search for data packs</a>
                             </div>
                             <div id="j3-hero-form" class="large-6 cell">
                                 <form>
