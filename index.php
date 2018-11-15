@@ -32,7 +32,7 @@
                 </div>
                 <h3>Map page</h3><br/>
                 <div class="grid-x grid-padding-x grid-margin-x small-up-1 medium-up-2 large-up-3">
-                    <div class="cell nav-panel"><a class="button hollow secondary expanded " href="2a-map.php">Map with vertical audience filter</a></div>
+                    <div class="cell nav-panel"><a class="button hollow secondary expanded " href="2b-map.php">Map with vertical audience filter</a></div>
                     <div class="cell nav-panel"><a class="button hollow secondary expanded " href="2a-map.php">Map with horizontal audience filter</a></div>
                 </div>
             </div>
