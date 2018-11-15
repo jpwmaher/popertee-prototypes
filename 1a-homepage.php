@@ -39,7 +39,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
                         <h3><img src="img/Big-Ben@2x.png" style="height: 32px;">&nbsp;Find your perfect London pop-up</h3>
-                        <h6>Here's a sentence explaing London/Discover BETA explaining briefly how the results can be filtered by audience various audience criteria</h6>
+                        <h6>Here's a sentence about London/Discover BETA explaining briefly how the results can be filtered by audience various audience criteria</h6>
                         <div class="grid-x grid-padding-x">
                             <div class="large-6 cell">
                                 <label>Type of space
