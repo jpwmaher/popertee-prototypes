@@ -100,7 +100,6 @@
                                 <label>Choose an area of London
                                     <input type="text" placeholder="Enter a borough, postcode or address">
                                 </label>
-                                <p>Here's some copy which explains what can be expected in the data packs, and perhaps pricing etc</p>
                                 <a class="button secondary expanded">Search for data packs</a>
                             </div>
                         </div>
