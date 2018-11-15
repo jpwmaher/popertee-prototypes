@@ -77,6 +77,7 @@
         </label>
                             </div>
                         </div>
+                        <br/>
                         <a href="#" class="button large secondary">Search for pop-ups</a>
                     </div>
                 </div>
