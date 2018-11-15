@@ -59,7 +59,7 @@
             <div id="audience-filters" class="large-3 cell colors2 red">
                 <!-- Audience filters -->
                 <div>
-                    <h4>Audience filters</h4>
+                    <h4>Find your audience</h4>
                     <h6>London-only</h6>
                     <div class="grid-x grid-padding-x small-up-1 medium-up-1 large-up-1">
                         <div class="cell">
