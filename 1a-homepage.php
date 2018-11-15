@@ -40,7 +40,7 @@
                     <div id="j1-hero" class="large-6 cell">
                         <h3><img src="img/Big-Ben@2x.png" style="height: 32px;">&nbsp;Find your perfect London pop-up</h3>
                         <h6>Here's a sentence explaing London/Discover BETA</h6>
-                        <div class="grid-x grid-padding-x grid-margin-x">
+                        <div class="grid-x grid-padding-x">
                             <div class="large-6 cell">
                                 <label>Type of space
   <select id="spacetype">
@@ -62,7 +62,7 @@
                     <div id="j2-hero" class="large-6 cell">
                         <h3>Looking elsewhere?</h3>
                         <h6>We have over 20,000 spaces in places like Manchester - Dublin - Bristol - Liverpool - Birmingham</h6>
-                        <div class="grid-x grid-padding-x grid-margin-x">
+                        <div class="grid-x grid-padding-x">
                             <div class="large-6 cell">
                                 <label>Type of space
   <select id="spacetype">
