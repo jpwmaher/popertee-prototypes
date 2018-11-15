@@ -38,14 +38,40 @@
             <div id="choice" class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div id="j1-hero" class="large-6 cell">
-                        <h2>Journey 1</h2>
-                        <ul>
-                            <li>User knows audience</li>
-                            <li>User wants to find out best location/space to engage with their target audience </li>
-                            <li>Map lead journey </li>
-                            <li>User can download data pack</li>
-                        </ul>
-                        <a href="#" class="button large secondary">Journey 1</a>
+                        <h2>Find your perfect London pop-up</h2>
+                        <label>Type of space
+  <select id="spacetype">
+    <option value="space-any">Any</option>
+    <option value="space-offices">Offices</option>
+      <option value="space-offices">Galleries</option>
+      <option value="space-offices">Retail</option>
+  </select>
+</label>
+                        <label>Gender</label>
+                        <div class="expanded button-group">
+                            <a class="button hollow">Male</a>
+                            <a class="button hollow">Female</a>
+                            <a class="button">Either</a>
+                        </div>
+                        <label>Age</label>
+                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <span class="slider-fill" data-slider-fill></span>
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <input type="hidden">
+                            <input type="hidden">
+                        </div>
+                        <label>Earnings</label>
+                        <div class="slider" data-slider data-initial-start="25" data-initial-end="75">
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <span class="slider-fill" data-slider-fill></span>
+                            <span class="slider-handle" data-slider-handle role="slider" tabindex="1"></span>
+                            <input type="hidden">
+                            <input type="hidden">
+                        </div>
+                        <br/>
+                        <a class="button secondary large" href="2b-map.php">Search for pop-ups</a>
+
                     </div>
                     <div id="j2-hero" class="large-6 cell">
                         <h2>Journey 2</h2>
